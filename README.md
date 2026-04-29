@@ -6,7 +6,24 @@
 I am a passionate and dedicated learner who is always eager to explore new technologies and improve my skills.
 
 ## Contact Me
-<p><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/muashrafulalam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/ashraful_alam789/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+## Contact Me
+<p>
+  <a href="https://github.com/ashraful442002-alam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="https://www.linkedin.com/in/muashrafulalam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+
+  <a href="https://www.facebook.com/muashraful.alam" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+
+  <a href="https://www.instagram.com/ashraful_alam789/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ## Skills
 

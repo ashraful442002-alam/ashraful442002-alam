@@ -32,6 +32,8 @@ I am a passionate and dedicated learner who is always eager to explore new techn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://www.santekno.com/images/cpp-logo.png" width="40"/>
+  <img src= "https://th.bing.com/th/id/OIP.LOlzZYYbQXBX6jnNBYB5ogHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" width="40" />
 </p>
 
 ## Projects
